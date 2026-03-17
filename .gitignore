@@ -1,0 +1,26 @@
+﻿# Virtual Environment
+venv/
+
+# Dataset / Data files
+archive/
+*.csv
+
+# Trained Models & Scalers
+*.keras
+*.pkl
+*.h5
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
